@@ -18,6 +18,4 @@ Pillow
 opencv-python-headless
 ultralytics
 pytesseract
-PIL
-donenv
-os
+python-dotenv

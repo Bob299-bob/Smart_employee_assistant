@@ -1,0 +1,7 @@
+#Company:- An Employee enter in an organization. He parked his vehicle and asked about organization after that he logged in his system then he can ask anything. 
+
+1. CNN  -(Face Mask Detection)..    
+2. RNN/LSTM -(Organization Details)..
+3. Rag System -(Ask Anything)...
+4. Login/Signup -(Authenticate User)...
+5. Detection System -(Parking Vehicle Detection)

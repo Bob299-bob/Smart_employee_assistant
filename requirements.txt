@@ -15,5 +15,5 @@ pdfplumber
 PyMuPDF
 python-multipart
 Pillow
-opencv-python
+opencv-python-headless
 ultralytics

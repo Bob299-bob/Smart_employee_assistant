@@ -16,3 +16,4 @@ PyMuPDF
 python-multipart
 Pillow
 opencv-python
+ultralytics

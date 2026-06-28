@@ -4,6 +4,8 @@ from evaluateCNN import predict
 from evaluateLSTM import evaluate
 from evaluateRAG import extract_pdf,search,rag_system,retrieve_system,prerag,data_chunk
 import requests
+import os
+os.environ["OPENCV_IO_ENABLE_OPENEXR"] = "0"
 
 st.markdown("""
 <style>

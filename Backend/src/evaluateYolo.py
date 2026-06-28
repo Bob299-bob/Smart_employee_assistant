@@ -3,7 +3,7 @@ import pytesseract
 import cv2
 import numpy as np
 from PIL import Image
-model = YOLO("Detect_Liscenceplate/runs/detect/train-7/weights/best.pt")
+model = YOLO("best.pt")
 def prevehicle(data):   
     confidences = []
     texts=[]
